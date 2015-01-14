@@ -1,5 +1,5 @@
 # 設定
-APP_NAME="kcl-go"
+APP_NAME=$(basename `pwd`)
 APP_OS="linux darwin windows"
 APP_ARCH="386 amd64"
 
